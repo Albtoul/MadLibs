@@ -13,6 +13,7 @@
 		2EA22DD0277E3AD300B61164 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EA22DCE277E3AD300B61164 /* Main.storyboard */; };
 		2EA22DD2277E3AD400B61164 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EA22DD1277E3AD400B61164 /* Assets.xcassets */; };
 		2EA22DD5277E3AD400B61164 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EA22DD3277E3AD400B61164 /* LaunchScreen.storyboard */; };
+		2EA22DDE277E3B6A00B61164 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA22DDD277E3B6A00B61164 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2EA22DD1277E3AD400B61164 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EA22DD4277E3AD400B61164 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2EA22DD6277E3AD400B61164 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EA22DDD277E3B6A00B61164 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2EA22DD1277E3AD400B61164 /* Assets.xcassets */,
 				2EA22DD3277E3AD400B61164 /* LaunchScreen.storyboard */,
 				2EA22DD6277E3AD400B61164 /* Info.plist */,
+				2EA22DDD277E3B6A00B61164 /* SecondViewController.swift */,
 			);
 			path = MadLibs;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EA22DDE277E3B6A00B61164 /* SecondViewController.swift in Sources */,
 				2EA22DCD277E3AD300B61164 /* ViewController.swift in Sources */,
 				2EA22DC9277E3AD300B61164 /* AppDelegate.swift in Sources */,
 				2EA22DCB277E3AD300B61164 /* SceneDelegate.swift in Sources */,
